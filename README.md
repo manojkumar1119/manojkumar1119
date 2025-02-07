@@ -18,7 +18,7 @@ Previously, I worked as a Senior Software Engineer at YantraVision Software Pvt 
 
 
 ## 🛠️ Skills
-- **Programming:** C++, Python, MATLAB, HLS
+- **Programming:** C, C++, Python, MATLAB, HLS
 - **AI/ML/DL:** TensorFlow, PyTorch, OpenCV, Numpy, Panda
 - **Robotics Frameworks:** ROS2, Gazebo
 - **Hardware:** FPGA, Microcontrollers, Raspberry Pi, Embedded Systems
