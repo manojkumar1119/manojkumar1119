@@ -5,11 +5,9 @@ I'm a Robotics Master's student at the University of Maryland, specializing in R
 Previously, I worked as a Senior Software Engineer at YantraVision Software Pvt Ltd, focusing on AI Inspection and Deep learning acceleration. My experience includes AI-driven perception, computer vision, and FPGA-based optimizations for high-performance computing applications. I am deeply passionate about AI/ML/DL and their applications in robotics.
 
 ## 🔬 Research & Projects
-- **Braille Detection in Carton Printing** 📦
-  
-    Developed a Braille detection system using a Haar Cascade Classifier, achieving ~95.3% accuracy.
-  
-    Designed a defect classification model using YOLOv8, achieving 93.6% accuracy for defect detection in high-throughput applications.
+- **Braille Detection in Carton Printing** 📦  
+    -Developed a Braille detection system using a Haar Cascade Classifier, achieving ~95.3% accuracy.  
+    -Designed a defect classification model using YOLOv8, achieving 93.6% accuracy for defect detection in high-throughput applications.
 
 - **DSP Library Development & Optimization** ⚡
   
