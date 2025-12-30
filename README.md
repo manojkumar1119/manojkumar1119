@@ -1,13 +1,12 @@
 # Hi, I'm Manoj Kumar Selvaraj 👋
 
-> **Embedded Systems | Firmware Development | Robotics | FPGA Acceleration**
+> **Embedded Systems | Firmware Development | Robotics | Edge AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manoj-kumar-selvaraj-6141691b1/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-teal?style=flat&logo=google-chrome)](https://manojkumar1119.github.io/)
-[![Email](https://img.shields.io/badge/Email-manojs%40umd.edu-red?style=flat&logo=gmail)](mailto:manojs@umd.edu)
 
 ## 👨‍💻 About Me
-I am a **Robotics Master's student at the University of Maryland**, specializing in Embedded Systems and Edge AI. I bridge the gap between hardware and software, with extensive experience taking products from **concept to PVT** and optimizing high-performance computing algorithms on FPGAs.
+I am a **Robotics Master's student at the University of Maryland**, specializing in Embedded Systems , Firmware Development and Edge AI. I bridge the gap between hardware and software, with extensive experience taking products from **concept to PVT** and optimizing high-performance computing algorithms on FPGAs.
 
 ---
 
@@ -15,7 +14,7 @@ I am a **Robotics Master's student at the University of Maryland**, specializing
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Languages** | C, C++, Python, MATLAB, Verilog/SystemVerilog, Shell Scripting, Assembly |
+| **Languages** | C, C++, Python, MATLAB, Verilog, Shell Scripting, Assembly |
 | **Embedded & Firmware** | FreeRTOS, Yocto, Buildroot, Bare-metal, UART, SPI, I²C, BLE (GATT), TCP/IP, MQTT |
 | **Hardware & FPGA** | Xilinx Versal ACAP, Zynq, STM32, ESP32-S3, PIC, Jetson Nano, Custom PCB Design (KiCad) |
 | **AI & Robotics** | ROS2, PyTorch, TensorFlow Lite Micro, OpenCV, CUDA, Vitis HLS, TinyML |
@@ -43,20 +42,20 @@ I am a **Robotics Master's student at the University of Maryland**, specializing
 
 ## 🔬 Featured Projects
 
-### 🧠 [SRAM-Based Compute-In-Memory Accelerator](https://github.com/manojkumar1119/SRAM-Based-Compute-In-Memory-Accelerator-for-Neural-Network-Inference)
+### [SRAM-Based Compute-In-Memory Accelerator](https://github.com/manojkumar1119/SRAM-Based-Compute-In-Memory-Accelerator-for-Neural-Network-Inference)
 * **Tech:** Mixed-Signal Design, Cadence Virtuoso, Verilog-A, Python
 * Designed a **5.2kb SRAM accelerator** for neural network inference using row-parallel MAC operations.
 * Achieved **90.9% accuracy** on MNIST with an Energy-Delay Product (EDP) of **1.47 fJ·s**.
 
-### 👞 [On-Device Gait Prediction for Wearables](https://github.com/manojkumar1119/On-Device-Gait-Prediction-for-Embedded-Wearables)
+### [On-Device Gait Prediction for Wearables](https://github.com/manojkumar1119/On-Device-Gait-Prediction-for-Embedded-Wearables)
 * **Tech:** TinyML, TFLite Micro, IMU Sensors, BLE
 * Developed a real-time gait prediction system running fully quantized neural networks on ultra-low-power microcontrollers.
 
-### 🤖 [Autonomous Mobile Robot Development](https://github.com/manojkumar1119/ENPM701)
+### [Autonomous Mobile Robot Development](https://github.com/manojkumar1119/ENPM701)
 * **Tech:** ROS2, Sensor Fusion, OpenCV
 * Built an embedded control system for a robot navigating structured arenas, performing color-coded object detection and autonomous pick-and-place missions.
 
-### 🗣️ [TinyML Speech Command Classification](https://github.com/manojkumar1119/ENEE719D)
+### [TinyML Speech Command Classification](https://github.com/manojkumar1119/ENEE719D)
 * **Tech:** Cortex-M4F, CNNs, Embedded AI
 * Deployed a quantized Convolutional Neural Network (CNN) on a microcontroller for real-time keyword spotting and speech command recognition.
 
