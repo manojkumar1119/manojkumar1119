@@ -1,29 +1,78 @@
-# Hi, I'm Manoj! 👋
+# Hi, I'm Manoj Kumar Selvaraj 👋
 
-## About Me
-I'm a Robotics Master's student at the University of Maryland, specializing in Robotics and Artificial Intelligence.
-Previously, I worked as a Senior Software Engineer at YantraVision Software Pvt Ltd, focusing on AI Inspection and Deep learning acceleration. My experience includes AI-driven perception, computer vision, and FPGA-based optimizations for high-performance computing applications. I am deeply passionate about AI/ML/DL and their applications in robotics.
+> **Embedded Systems | Firmware Development | Robotics | FPGA Acceleration**
 
-## 🔬 Research & Projects
-- **Braille Detection in Carton Printing** 📦  
-    - Developed a Braille detection system using a Haar Cascade Classifier, achieving ~95.3% accuracy.  
-    - Designed a defect classification model using YOLOv8, achieving 93.6% accuracy for defect detection in high-throughput applications.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manoj-kumar-selvaraj-6141691b1/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-teal?style=flat&logo=google-chrome)](https://manojkumar1119.github.io/)
+[![Email](https://img.shields.io/badge/Email-manojs%40umd.edu-red?style=flat&logo=gmail)](mailto:manojs@umd.edu)
 
-- **DSP Library Development & Optimization** ⚡  
-    - Developed and benchmarked DSP libraries for Xilinx-AMD’s FPGA and AIE platforms, including optimized implementations for GeMM, 1D-FFT, and 2D-FFT.  
-    - Optimized FR2 SSB search and decode for 5G wireless applications, reducing processing time to one-fifth using multithreading and data synchronization techniques.
+## 👨‍💻 About Me
+I am a **Robotics Master's student at the University of Maryland**, specializing in Embedded Systems and Edge AI. I bridge the gap between hardware and software, with extensive experience taking products from **concept to PVT** and optimizing high-performance computing algorithms on FPGAs.
 
-- **Dynamic Obstacle Avoidance with Deep Q-Learning** 🏎️  
-    - Conducted research on Q-Learning vs. Deep Q-Learning techniques for navigation efficiency and obstacle avoidance in dynamic environments.
+---
 
+## 🛠️ Technical Arsenal
 
-## 🛠️ Skills
-- **Programming:** C, C++, Python, MATLAB, HLS
-- **AI/ML/DL:** TensorFlow, PyTorch, OpenCV, Numpy, Panda
-- **Robotics Frameworks:** ROS2, Gazebo
-- **Hardware:** FPGA, Microcontrollers, Raspberry Pi, Embedded Systems
-- **Optimization & Acceleration:** CUDA, Vitis HLS, SIMD, AIE for AI/ML applications
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | C, C++, Python, MATLAB, Verilog/SystemVerilog, Shell Scripting, Assembly |
+| **Embedded & Firmware** | FreeRTOS, Yocto, Buildroot, Bare-metal, UART, SPI, I²C, BLE (GATT), TCP/IP, MQTT |
+| **Hardware & FPGA** | Xilinx Versal ACAP, Zynq, STM32, ESP32-S3, PIC, Jetson Nano, Custom PCB Design (KiCad) |
+| **AI & Robotics** | ROS2, PyTorch, TensorFlow Lite Micro, OpenCV, CUDA, Vitis HLS, TinyML |
+| **Tools** | Vivado, Git, Jenkins (CI/CD), GDB, Logic Analyzers, Oscilloscopes, GCC, Makefiles |
 
-## 📫 Connect with Me
-- **Email:** manojs@umd.edu
+---
+
+## 💼 Professional Experience
+
+### **37degrees, Inc** | Lead Embedded & Firmware Intern
+*Chicago, IL | May 2025 – Present*
+* **Full Lifecycle Development:** Led the embedded architecture for the *CultureON* portable incubator, taking the system through **EVT → DVT → PVT**.
+* **Firmware Architecture:** Developed production-grade firmware using **FreeRTOS**, handling multi-task scheduling, sensor fusion, and deterministic actuator control.
+* **Connectivity & OTA:** Built a reliable **OTA update pipeline** and implemented custom BLE GATT services + Wi-Fi MQTT telemetry for cloud integration.
+* **Hardware Design:** Designed **5 custom PCBs**, replacing diode-muxing with TPS25947 power switches to improve efficiency by **15%**.
+
+### **YantraVision Software Pvt Ltd** | Senior Software Engineer
+*Bangalore, India | May 2021 – Dec 2023*
+* **FPGA Acceleration (Xilinx-AMD):** Optimized DSP kernels (GeMM, 4096-point FFT) on **Versal ACAP AIE**, achieving **1.5× speedup** over baseline HLS kernels.
+* **5G Optimization:** Reduced 5G FR2 signal-processing latency by **75%** via a multithreaded ARM Cortex-A72 host application and improved data synchronization.
+* **CI/CD Automation:** Established a Jenkins-based regression suite automating testing for **72+ DSP libraries**.
+* **Computer Vision:** Implemented CUDA/OpenMP acceleration for carton printing inspection, maintaining **350m/min throughput** with 95.3% Braille detection accuracy.
+
+---
+
+## 🔬 Featured Projects
+
+### 🧠 [SRAM-Based Compute-In-Memory Accelerator](https://github.com/manojkumar1119/SRAM-Based-Compute-In-Memory-Accelerator-for-Neural-Network-Inference)
+* **Tech:** Mixed-Signal Design, Cadence Virtuoso, Verilog-A, Python
+* Designed a **5.2kb SRAM accelerator** for neural network inference using row-parallel MAC operations.
+* Achieved **90.9% accuracy** on MNIST with an Energy-Delay Product (EDP) of **1.47 fJ·s**.
+
+### 👞 [On-Device Gait Prediction for Wearables](https://github.com/manojkumar1119/On-Device-Gait-Prediction-for-Embedded-Wearables)
+* **Tech:** TinyML, TFLite Micro, IMU Sensors, BLE
+* Developed a real-time gait prediction system running fully quantized neural networks on ultra-low-power microcontrollers.
+
+### 🤖 [Autonomous Mobile Robot Development](https://github.com/manojkumar1119/ENPM701)
+* **Tech:** ROS2, Sensor Fusion, OpenCV
+* Built an embedded control system for a robot navigating structured arenas, performing color-coded object detection and autonomous pick-and-place missions.
+
+### 🗣️ [TinyML Speech Command Classification](https://github.com/manojkumar1119/ENEE719D)
+* **Tech:** Cortex-M4F, CNNs, Embedded AI
+* Deployed a quantized Convolutional Neural Network (CNN) on a microcontroller for real-time keyword spotting and speech command recognition.
+
+---
+
+## 🎓 Education
+
+* **M.Eng. in Robotics** | University of Maryland, College Park *(2024 - 2025)*
+* **B.E. in Electronics & Communication** | PSG Institute of Technology *(2017 - 2021)*
+
+---
+
+<div align="center">
+  <p><i>Open to full-time opportunities in Embedded Systems, Firmware, and Robotics Software Engineering.</i></p>
+  <a href="mailto:manomanoj1119@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email%20Me-teal?style=for-the-badge" />
+  </a>
+</div>
 
