@@ -66,12 +66,4 @@ I am a **Robotics Master's student at the University of Maryland**, specializing
 * **M.Eng. in Robotics** | University of Maryland, College Park *(2024 - 2025)*
 * **B.E. in Electronics & Communication** | PSG Institute of Technology *(2017 - 2021)*
 
----
-
-<div align="center">
-  <p><i>Open to full-time opportunities in Embedded Systems, Firmware, and Robotics Software Engineering.</i></p>
-  <a href="mailto:manomanoj1119@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email%20Me-teal?style=for-the-badge" />
-  </a>
-</div>
 
